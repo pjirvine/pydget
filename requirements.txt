@@ -1,0 +1,3 @@
+matplotlib
+ipywidgets
+jupyter nbextension enable --py widgetsnbextension
